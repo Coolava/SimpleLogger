@@ -1,0 +1,6 @@
+[submodule "SafeQueue"]
+	path = SafeQueue
+	url = https://github.com/Coolava/SafeQueue
+[submodule "chrono2"]
+	path = chrono2
+	url = https://github.com/Coolava/SteadyClock_to_string/

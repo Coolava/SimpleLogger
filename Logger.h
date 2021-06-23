@@ -1,8 +1,8 @@
 #pragma once
 #include <fstream>
 #include <vector>
-#include "chrono2.h"
-#include "SafeQueue.h"
+#include "chrono2/SteadyClock_to_string/Include/chrono2.h"
+#include "SafeQueue/SafeQueue.h"
 
 class Logger
 {
